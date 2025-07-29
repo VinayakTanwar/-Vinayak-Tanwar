@@ -18,5 +18,10 @@
 
 ---
 
+### 🚀 Featured Projects  
+- [📊 IPL Data Analysis](https://github.com/VinayakTanwar/ipl-data-analysis)  
+- [📈 Stock Market Visualization](https://github.com/VinayakTanwar/Stock-Market-Data-Visualization-using-Matplotlib-and-Seaborn)
+
+
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayaktanwar)
