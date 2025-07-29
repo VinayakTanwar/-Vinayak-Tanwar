@@ -2,7 +2,7 @@
 
 🎓 BCA + AI & Data Science Student  
 📍 India  
-📚 Learning Python, NumPy, Pandas, Seaborn  
+📚 Learning Python,Machine Learning
 🎯 Exploring data, solving problems  
 ☕ Tea > Coffee  
 
@@ -17,13 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 📫 Reach Me
