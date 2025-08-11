@@ -3,8 +3,7 @@
 🎓 BCA + AI & Data Science Student  
 📍 India  
 📚 Learning Python,Machine Learning
-🎯 Exploring data, solving problems  
-☕ Tea > Coffee  
+🎯 Exploring data, solving problems 
 
 ---
 
@@ -21,6 +20,7 @@
 ### 🚀 Featured Projects  
 - [📊 IPL Data Analysis](https://github.com/VinayakTanwar/ipl-data-analysis)  
 - [📈 Stock Market Visualization](https://github.com/VinayakTanwar/Stock-Market-Data-Visualization-using-Matplotlib-and-Seaborn)
+- - [📈 Startup Investment Analysis](https://github.com/VinayakTanwar/Startup-Investment-Analysis-using-Python-Pandas) 
 
 
 ### 📫 Reach Me
